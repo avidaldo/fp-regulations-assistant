@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+# Downloaded norms, the table of articles, the queue database: rebuilt by the code
+data/
